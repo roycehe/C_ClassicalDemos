@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6B101D681F185E280050834E"
-               BuildableName = "C_ClassicalDemos"
-               BlueprintName = "C_ClassicalDemos"
+               BlueprintIdentifier = "6B101D761F185E560050834E"
+               BuildableName = "C_string"
+               BlueprintName = "C_string"
                ReferencedContainer = "container:C_ClassicalDemos.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6B101D681F185E280050834E"
-            BuildableName = "C_ClassicalDemos"
-            BlueprintName = "C_ClassicalDemos"
+            BlueprintIdentifier = "6B101D761F185E560050834E"
+            BuildableName = "C_string"
+            BlueprintName = "C_string"
             ReferencedContainer = "container:C_ClassicalDemos.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6B101D681F185E280050834E"
-            BuildableName = "C_ClassicalDemos"
-            BlueprintName = "C_ClassicalDemos"
+            BlueprintIdentifier = "6B101D761F185E560050834E"
+            BuildableName = "C_string"
+            BlueprintName = "C_string"
             ReferencedContainer = "container:C_ClassicalDemos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6B101D681F185E280050834E"
-            BuildableName = "C_ClassicalDemos"
-            BlueprintName = "C_ClassicalDemos"
+            BlueprintIdentifier = "6B101D761F185E560050834E"
+            BuildableName = "C_string"
+            BlueprintName = "C_string"
             ReferencedContainer = "container:C_ClassicalDemos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

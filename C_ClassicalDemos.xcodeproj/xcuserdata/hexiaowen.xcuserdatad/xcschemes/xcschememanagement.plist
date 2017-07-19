@@ -9,10 +9,100 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>C_string.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Key-Value.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>strstr.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>二级指针做输入.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>多级指针.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>数组类型.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>栈逆序.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>结构体类型.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>辅助指针分割字符串.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>6B101D681F185E280050834E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B101D761F185E560050834E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B101D811F186B860050834E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B17A9CF1F1EFE2C00F9E9D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B17A9DA1F1F0B6800F9E9D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B17A9E51F1F379900F9E9D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B34346A1F1F941700ADB9D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B6A0C3B1F1D8750003AC4BC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B6A0C461F1DDEDB003AC4BC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6BC5EB481F1C99B0000FBF07</key>
 		<dict>
 			<key>primary</key>
 			<true/>
